@@ -1,0 +1,12 @@
+{
+  "name": "callmejea/dingtalk-server",
+  "description": "钉钉服务端开发的API",
+  "require": {
+    "nategood/httpful": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "DingTalk\\": "/"
+    }
+  }
+}
